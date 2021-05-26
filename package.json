@@ -1,0 +1,10 @@
+{
+  "name": "decode-data-transaction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ethereum-input-data-decoder": "^0.3.2",
+    "ethers": "^5.1.0"
+  }
+}
